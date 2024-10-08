@@ -15,7 +15,7 @@ We developed an interface to improve document accessibility for users with visua
 This repository is part of our submission for the MDPI paper (currently under review) titled *"Designing a Tactile Document UI for 2D Refreshable Tactile Displays: Towards Accessible Document Layouts for Blind People"*
 
 <p align="center">
-  <img src="images/samples.gif" height="640"/>
+  <img src="miscs/datasamples.png" height="500" width="950"/>
 </p>
 
 ## Dataset 📊
